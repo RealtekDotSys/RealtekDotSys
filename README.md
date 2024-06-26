@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RealtekDotSys
+- I’m interested in GameDev
+- I’m currently learning Java
+- Discord: realtek.sys
